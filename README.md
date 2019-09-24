@@ -9,3 +9,4 @@ We modified the learning process into a single pass learning (no epoch) with mov
 This learning concept is suitable for:
   1. Data stream machine learning problem
   2. Nonlinear system prediction or modelling
+  3. Intelligent control system
